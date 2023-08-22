@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Youssef02222
+- 👋 Hi, I’m Youssef
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learn in ITI 9 month diploma
-- 💞️ I’m seeking to full time jop opportunity
+- 🌱 I’m currently Java Full stack software developer
 - 📫 How to reach me https://www.linkedin.com/in/youssef-ibrahem-dev
 
 
